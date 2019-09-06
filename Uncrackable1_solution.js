@@ -1,4 +1,5 @@
 // Challenge: https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/Android/Level_01
+// run with frida -f flag so hooks are implemented before method execution
 
 Java.perform(function() {
 
