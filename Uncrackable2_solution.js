@@ -1,3 +1,6 @@
+// Challenge: https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/Android/Level_02
+// run with frida -f flag so hooks are implemented before method execution
+
 // Notes:
 // Very cool that you can dynamically set nested hooks
 // 		- How do you unhook?
